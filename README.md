@@ -1,5 +1,5 @@
 # Sudoroyal 👑
-**Sudoroyal** is a royal-themed version of Sudoku on C# and Python. This is a laboratory project for **CMSC 12 (Foundations of Computer Science)**.
+Sudoroyal is a royal-themed Sudoku. This is my laboratory project for **CMSC 12 (Foundations of Computer Science).**
 
 ## Game Lore
 The Kingdom of Sudoroyal is **under attack** by trolls from the **Land of Abandonment**, as the Troll King captured the kingdom’s most sacred artifact - **the Bishop Crown!**
