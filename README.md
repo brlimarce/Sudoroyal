@@ -1,2 +1,3 @@
-# Sudoroyal
-👑 A royal-themed version of Sudoku on C# and Python.
+# 👑 Sudoroyal
+## Description
+This is a laboratory project for CMSC 12.
