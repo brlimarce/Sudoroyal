@@ -1,1 +1,1 @@
-<h1 style="text-align:center">Sudoroyal</h1>
+<h1 align="center">Sudoroyal</h1>
