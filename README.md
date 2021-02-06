@@ -3,13 +3,13 @@ This is a royal-inspired game of Sudoku implemented on C# and Python. It consist
 
 ## Preview 🔍
 ![Image of Title Screen](readme/title-screen.png)
-**Figure 1. Title Screen**
+**Figure 1. Title Screen.**
 
 ![Image of Board Popup](readme/board-popup.png)
-**Figure 2. Choose a character to play with by changing your Sudoku's size!**
+**Figure 2. Choose a character to play with by changing your board size!**
 
 ![Image of Gameplay](readme/game-screen.png)
-**Figure 3. Game Screen (9x9 Board)**
+**Figure 3. Game Screen using the 9x9 board.**
 
 ## Game Lore 🏰
 The Kingdom of Sudoroyal is **under attack** by trolls from **the Land of Abandonment,** as the Troll King captured the kingdom’s most sacred artifact - **the Bishop Crown!**
