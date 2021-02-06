@@ -1,1 +1,1 @@
-![Image of Title Screen](readme/Title Screen.png)
+![Image of Title Screen](readme/title-screen.png)
