@@ -8,7 +8,7 @@
 ![Image of Board Popup](readme/board-popup.png)
 **Figure 2. Choose a character to play with by changing your board size!**
 
-![Image of Gameplay](readme/game-screen.png)
+![Image of Gameplay](readme/gameplay-screen.png)
 **Figure 3. Gameplay with a 9x9 board**
 
 ## Game Lore 🏰
