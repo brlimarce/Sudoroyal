@@ -18,5 +18,5 @@
 **Figure 2. Ready for a challenge? 🏁 Solve a 9x9 or 16x16 board!**
 
 ## Ready to play? 🧠 Get started!
-1. After cloning this repository, go to **ARCE_B5L/Sudoroyal/Sudoroyal/bin/Debug/**
+1. After cloning this repository, go to **Sudoroyal/Sudoroyal/bin/Debug/**
 2. Open **Sudoroyal.exe**
