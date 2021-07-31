@@ -1,17 +1,30 @@
-![Image of Sudoroyal Banner](readme/banner.png)
+![Image of Banner](readme/banner.png)
 
-<!-- Title Header -->
-<svg fill="none" width="1920" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-				h1 {
-                    text-align: center;
-				}
-			</style>
-			<div>
-				<h1>Sudoroyal 👑</h1>
-			</div>
-		</div>
-	</foreignObject>
-</svg>
+<!-- Heading -->
+<h1 style="text-align:center;font-weight:bold">Sudoroyal 👑</h1>
+<p style="text-align:center"><b>A royal-inspired game of Sudoku on C# and Python.</b><br>This is a project for my CMSC 12 course (Fundamentals of Computer Science).</p>
+<br>
+
+![Image of Gameplay](readme/gameplay.gif)
+<br><br>
+
+<!-- Features -->
+## **Features**
+- **Switch boards.** Play as **King 9** (9x9 board) or **Queen 16** (16x16 board) by switching the size of your Sudoku board!
+
+- **Interactive Checker.** All **locked** or unchangeable cells are highlighted in **purple.** If you had a **wrong** answer, it is highlighted in **red.**
+
+- **Progress Tracker.** Your progress is automatically saved.
+
+<!-- Installation -->
+## **Installation**
+After cloning this repository, open the exe file at the following directory:
+
+    # Clone the repo.
+    $ git clone https://github.com/brlimarce/Sudoroyal.git
+
+    # Go to this file directory.
+    $ cd Sudoroyal/Sudoroyal/Sudoroyal/bin/Debug/
+
+    # Run the .exe file.
+    $ start Sudoroyal.exe
