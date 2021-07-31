@@ -20,8 +20,6 @@
 
 <!-- Start of Installation -->
 ## **Installation**
-After cloning this repository, open the .exe file at the following directory:
-
 ```bash
 # Clone the repo.
 $ git clone https://github.com/brlimarce/Sudoroyal.git
