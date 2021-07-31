@@ -1,3 +1,4 @@
+<!-- Banner -->
 ![Image of Banner](readme/banner.png)
 
 <!-- Heading -->
