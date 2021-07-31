@@ -20,7 +20,7 @@
 
 <!-- Start of Installation -->
 ## **Installation**
-To clone and run this project, run the following commands:
+To clone and run this project, execute the following commands:
 ```bash
 # Clone the repo.
 $ git clone https://github.com/brlimarce/Sudoroyal.git
