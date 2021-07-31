@@ -5,7 +5,7 @@
 <!-- Start of Heading -->
 <div align="center">
     <h1><b>Sudoroyal 👑</b></h1>
-    <p><b>A royal-inspired game of Sudoku on C# and Python.</b><br>This is a project for my CMSC 12 course (Fundamentals of Computer Science).</p>
+    <p><b>Sudoroyal is a royal-themed Sudoku game on C# and Python.</b><br>This is a project for my CMSC 12 course (Fundamentals of Computer Science).</p>
 </div> <br>
 
 ![Image of Gameplay](readme/gameplay.gif) <br>
