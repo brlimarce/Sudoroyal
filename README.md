@@ -1,12 +1,12 @@
 ![Image of Banner](readme/banner.png)
 
 <!-- Heading -->
-<h1 style="text-align:center;font-weight:bold">Sudoroyal 👑</h1>
-<p style="text-align:center"><b>A royal-inspired game of Sudoku on C# and Python.</b><br>This is a project for my CMSC 12 course (Fundamentals of Computer Science).</p>
+<h1 align="center"><b>Sudoroyal 👑</b></h1>
+<p align="center"><b>A royal-inspired game of Sudoku on C# and Python.</b><br>This is a project for my CMSC 12 course (Fundamentals of Computer Science).</p>
 <br>
 
 ![Image of Gameplay](readme/gameplay.gif)
-<br><br>
+<br>
 
 <!-- Features -->
 ## **Features**
