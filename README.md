@@ -11,20 +11,20 @@
 <!-- Features -->
 ## **Features**
 - **Switch boards.** Play as **King 9** (9x9 board) or **Queen 16** (16x16 board) by switching the size of your Sudoku board!
-
 - **Interactive Checker.** All **locked** or unchangeable cells are highlighted in **purple.** If you had a **wrong** answer, it is highlighted in **red.**
-
 - **Progress Tracker.** Your progress is automatically saved.
 
 <!-- Installation -->
 ## **Installation**
-After cloning this repository, open the exe file at the following directory:
+After cloning this repository, open the .exe file at the following directory:
 
-    # Clone the repo.
-    $ git clone https://github.com/brlimarce/Sudoroyal.git
+```bash
+# Clone the repo.
+$ git clone https://github.com/brlimarce/Sudoroyal.git
 
-    # Go to this file directory.
-    $ cd Sudoroyal/Sudoroyal/Sudoroyal/bin/Debug/
+# Go to this file directory.
+$ cd Sudoroyal/Sudoroyal/Sudoroyal/bin/Debug/
 
-    # Run the .exe file.
-    $ start Sudoroyal.exe
+# Run the .exe file.
+$ start Sudoroyal.exe
+```
