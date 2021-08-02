@@ -14,9 +14,7 @@
 <!-- Start of Features -->
 ## **Features ✨**
 - **Switch board size.** Unlock different characters by playing either a **9x9 board** or a **16x16 board** to step up to the challenge!
-
 - **Have an interactive checker.** Wrong answers are automatically **highlighted in red.** You also can't change cells that are **in purple.**
-
 - **Save your progress.** Your progress is automatically saved after leaving the game.
 <!-- End of Features -->
 
