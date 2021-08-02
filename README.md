@@ -22,7 +22,7 @@
 
 <!-- Start of Installation -->
 ## **Installation ⬇️**
-To run Sudoroyal, you need to **clone the project** and run a **certain .exe file.** Execute the following in your command line:
+To run Sudoroyal, you need to **clone the project** and run a **certain .exe file.** Execute the following commands in your command line:
 ```bash
 # Clone the repo.
 $ git clone https://github.com/brlimarce/Sudoroyal.git
