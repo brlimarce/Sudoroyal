@@ -5,22 +5,24 @@
 <!-- Start of Heading -->
 <div align="center">
     <h1><b>Sudoroyal 👑</b></h1>
-    <p><b>Sudoroyal is a royal-themed Sudoku game on C# and Python.</b><br>This is a project for my CMSC 12 course (Fundamentals of Computer Science).</p>
+    <p><b>A royal-themed Sudoku game on C# and Python.</b><br>Sudoroyal is a project for CMSC 12 <i>(Fundamentals of Computer Science).</i></p>
 </div> <br>
 
 ![Image of Gameplay](readme/gameplay.gif) <br>
 <!-- End of Heading -->
 
 <!-- Start of Features -->
-## **Features**
-- **Switch boards.** Play as **King 9** (9x9 board) or **Queen 16** (16x16 board) by switching the size of your Sudoku board!
-- **Interactive Checker.** All **locked** or unchangeable cells are highlighted in **purple.** If you had a **wrong** answer, it is highlighted in **red.**
-- **Progress Tracker.** Your progress is automatically saved.
+## **Features ✨**
+- **Switch board size.** Unlock different characters by playing either a **9x9 board** or a **16x16 board** to step up to the challenge!
+
+- **Have an interactive checker.** Wrong answers are automatically **highlighted in red.** You also can't change cells that are **in purple.**
+
+- **Save your progress.** Your progress is automatically saved after leaving the game.
 <!-- End of Features -->
 
 <!-- Start of Installation -->
-## **Installation**
-To clone and run this project, execute the following commands:
+## **Installation ⬇️**
+To run Sudoroyal, you need to **clone the project** and run a **certain .exe file.** Execute the following in your command line:
 ```bash
 # Clone the repo.
 $ git clone https://github.com/brlimarce/Sudoroyal.git
