@@ -1,34 +1,19 @@
-<!-- Start of Banner -->
-![Image of Banner](readme/banner.png)
-<!-- End of Banner -->
+<!-- Banner -->
+![Banner](assets/banner.png)
 
-<!-- Start of Heading -->
+<!-- Header -->
 <div align="center">
-    <h1><b>Sudoroyal 👑</b></h1>
-    <p><b>A royal-themed Sudoku game on C# and Python.</b><br>Sudoroyal is a project for CMSC 12 <i>(Fundamentals of Computer Science).</i></p>
-</div> <br>
+  <h1><b>👑 Sudoroyal</b></h1>
+  <p>A <b>royal-themed</b> Sudoku game on C# and Python.</p>
+</div>
+<br />
 
-![Image of Gameplay](readme/gameplay.gif) <br>
-<!-- End of Heading -->
+<!-- App Preview -->
+## 🎮&ensp;Game Preview
+![App Preview](assets/app_preview.gif)
 
-<!-- Start of Features -->
-## **Features ✨**
-- **Switch board size.** Unlock different characters by playing either a **9x9 board** or a **16x16 board** to step up to the challenge!
-- **Have an interactive checker.** Wrong answers are automatically **highlighted in red.** You also can't change cells that are **in purple.**
-- **Save your progress.** Your progress is automatically saved after leaving the game.
-<!-- End of Features -->
-
-<!-- Start of Installation -->
-## **Installation ⬇️**
-To run Sudoroyal, you need to **clone the project** and run a **certain .exe file.** Execute the following commands in your command line:
-```bash
-# Clone the repo.
-$ git clone https://github.com/brlimarce/Sudoroyal.git
-
-# Go to this file directory.
-$ cd Sudoroyal/Sudoroyal/Sudoroyal/bin/Debug/
-
-# Run the .exe file.
-$ start Sudoroyal.exe
-```
-<!-- End of Installation -->
+<!-- Features -->
+## 👾&ensp;Features
+- Unlock different characters by **selecting a board size** (**9x9** or **16x16**)!
+- Wrong answers are **highlighted in red** automatically while correct answers are **purple** *(cannot be changed).*
+- Your progress is **saved automatically** after leaving the game.
